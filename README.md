@@ -1,8 +1,10 @@
-📚 API REST con PHP - Laboratorio Académico
-🎯 Descripción del Proyecto
+**📚 API REST con PHP - Laboratorio Académico**
+
+
+**🎯 Descripción del Proyecto**
 Este proyecto consiste en una API REST desarrollada en PHP nativo como parte del laboratorio de la asignatura Desarrollo de Software VII. La API implementa operaciones CRUD básicas para la gestión de productos, utilizando una arquitectura MVC y siguiendo los principios RESTful.
 
-🛠️ Tecnologías Utilizadas
+**🛠️ Tecnologías Utilizadas**
 Backend: PHP 7+
 
 Servidor: WAMP (Apache)
@@ -13,7 +15,7 @@ Cliente API: Postman
 
 Patrón: MVC (Modelo-Vista-Controlador)
 
-📁 Estructura del Proyecto
+**📁 Estructura del Proyecto**
 text
 api_rest/
 ├── config/
@@ -25,7 +27,7 @@ api_rest/
 ├── index.php                 # Punto de entrada
 └── README.md                # Este archivo
 
-🗃️ Base de Datos
+**🗃️ Base de Datos**
 Estructura de la tabla productos:
 sql
 CREATE TABLE productos (
